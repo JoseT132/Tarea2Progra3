@@ -3,7 +3,7 @@ package tarea2_progra3;
 import static java.lang.System.exit;
 import java.util.*;
 
-public class TareaII_PrograIII {
+public class Tarea2_Progra3 {
 
     public static void main(String[] args) {
         Scanner dato = new Scanner(System.in);

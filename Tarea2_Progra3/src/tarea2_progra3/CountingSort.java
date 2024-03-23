@@ -1,4 +1,4 @@
-package tareaii_prograiii;
+package tarea2_progra3;
 
 import java.util.Scanner;
 
